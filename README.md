@@ -1,2 +1,2 @@
 # style-rules
-Some code style, rules of the eslint, prettier and editorconfig.
+Some code styles and rules of eslint prettier editorconfig
